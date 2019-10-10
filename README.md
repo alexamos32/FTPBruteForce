@@ -1,5 +1,5 @@
 # FTPBruteForce
-FTP Brute Force Application
+FTP Brute Force Application.
 Done as a class assignment.
 
 This application brute forces all permutations of the groups:
